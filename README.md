@@ -20,3 +20,7 @@ One wrong move and it’s game over!
 ---
 
 ## 📂 Project Structure
+├── index.html # Main HTML file
+├── game.js # Game logic (jQuery + JavaScript)
+├── styles.css # Styling for the game
+└── sounds/ # Folder containing sound effects (red.mp3, blue.mp3, green.mp3, yellow.mp3, wrong.mp3)
