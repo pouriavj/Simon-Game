@@ -39,4 +39,4 @@ One wrong move and it’s game over!
 ---
 
 ## 📷 Preview
-*(You can add a screenshot or gif of your game here)*
+*![Simon Game Demo](./simonGame.gif)*
