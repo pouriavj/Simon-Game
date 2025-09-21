@@ -7,7 +7,7 @@ One wrong move and it’s game over!
 ---
 
 ## 🚀 Demo
-*(Add your live demo link here if hosted on GitHub Pages or elsewhere)*
+*https://pouriavj.github.io/Simon-Game*
 
 ---
 
